@@ -1,4 +1,3 @@
-
 document.addEventListener("DOMContentLoaded", () => {
-  const taskList = new TaskList();
-});
+  const taskListForm = document.querySelector('#create-task-form');
+})
